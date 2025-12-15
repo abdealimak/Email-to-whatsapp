@@ -1,0 +1,8 @@
+EMAIL_HOST=imap.gmail.com
+EMAIL_USER=youremail@gmail.com
+EMAIL_PASS=16_digits_passkey
+
+TWILIO_ACCOUNT_SID=....
+TWILIO_AUTH_TOKEN=....
+TWILIO_WHATSAPP_FROM=whatsapp:twilio_number
+TO_WHATSAPP=whatsapp:your_number
